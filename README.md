@@ -1,2 +1,2 @@
 # Javascript
- ´´´Aprendendo Javascript´´´
+ ```Aprendendo Javascript```
